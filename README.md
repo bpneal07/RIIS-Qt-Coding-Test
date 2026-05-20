@@ -1,66 +1,16 @@
-<<<<<<< HEAD
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dronecode/UX-Design/35d8148a8a0559cd4bcf50bfa2c94614983cce91/QGC/Branding/Deliverables/QGC_RGB_Logo_Horizontal_Positive_PREFERRED/QGC_RGB_Logo_Horizontal_Positive_PREFERRED.svg" alt="QGroundControl Logo" width="500">
-</p>
-
-<p align="center">
-  <a href="https://github.com/mavlink/QGroundControl/releases">
-    <img src="https://img.shields.io/github/v/release/mavlink/QGroundControl" alt="Latest Release">
-  </a>
-</p>
-
-*QGroundControl* (QGC) is a highly intuitive and powerful Ground Control Station (GCS) designed for UAVs. Whether you're a first-time pilot or an experienced professional, QGC provides a seamless user experience for flight control and mission planning, making it the go-to solution for any *MAVLink-enabled drone*.
-
----
-
-### 🌟 *Why Choose QGroundControl?*
-
-- *🚀 Ease of Use*: A beginner-friendly interface designed for smooth operation without sacrificing advanced features for pros.
-- *✈️ Comprehensive Flight Control*: Full flight control and mission management for *PX4* and *ArduPilot* powered UAVs.
-- *🛠️ Mission Planning*: Easily plan complex missions with a simple drag-and-drop interface.
-
-🔍 For a deeper dive into using QGC, check out the [User Manual](https://docs.qgroundcontrol.com/en/) – although thanks to QGC's intuitive UI, you may not even need it!
-
----
-
-### 🚁 *Key Features*
-
-- 🕹️ *Full Flight Control*: Supports all *MAVLink drones*.
-- ⚙️ *Vehicle Setup*: Tailored configuration for *PX4* and *ArduPilot* platforms.
-- 🔧 *Fully Open Source*: Customize and extend the software to suit your needs.
-
-🎯 Check out the latest updates in our [New Features and Release Notes](https://github.com/mavlink/qgroundcontrol/blob/master/CHANGELOG.md).
-
----
-
-### 💻 *Get Involved!*
-
-QGroundControl is *open-source*, meaning you have the power to shape it! Whether you're fixing bugs, adding features, or customizing for your specific needs, QGC welcomes contributions from the community.
-
-🛠️ Start building today with our [Developer Guide](https://dev.qgroundcontrol.com/en/) and [build instructions](https://dev.qgroundcontrol.com/en/getting_started/).
-
----
-
-### 🔗 *Useful Links*
-
-- 🌐 [Official Website](http://qgroundcontrol.com)
-- 📘 [User Manual](https://docs.qgroundcontrol.com/en/)
-- 🛠️ [Developer Guide](https://dev.qgroundcontrol.com/en/)
-- 💬 [Discussion & Support](https://docs.qgroundcontrol.com/en/Support/Support.html)
-- 🤝 [Contributing](.github/CONTRIBUTING.md) ([Dev Guide](https://dev.qgroundcontrol.com/en/contribute/))
-- 📜 [License Information](https://github.com/mavlink/qgroundcontrol/blob/master/.github/COPYING.md)
-
----
-
-With QGroundControl, you're in full command of your UAV, ready to take your missions to the next level.
-
----
-
-### Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/mavlink/qgroundcontrol.svg?variant=adaptive)](https://starchart.cc/mavlink/qgroundcontrol)
-=======
-# RIIS-Qt-Coding-Test
-I was given RIIS Qt coding test to replace logo in upper left hand corner.
->>>>>>> e754c7f5a5b09e5cb294c1571980e05475271d85
+Documentation for RIIS Coding Test
+1. Look up documentation on how to install QGC.
+2. Install Qt version 6.10.1
+3. Install dependencies.
+4. Clone Git repo for QGC.
+5. Open CMake list inside of QGC.
+6. Grep-R to search for QML files.
+7. Locate main pages within QGC.
+8. Placed logo in Resource folder within project.
+9. Look through QGC toolbar button.qml to see how the original image was set up.
+10. Once I noticed that button.icon.source contained the image source, I did a search all for icon.source.
+11. I noticed the icon.source was used in several places. 
+12. I found the QGC resources.qml was the location where file aliases were set up.
+13. So I created an alias for the RIIS company logo.
+14. I started replacing the original logo in FlyViewToolbar.qml, MainWindow.qml, and PlainViewToolbar.qml.
+15. Resized the canvas for the RIIS black company logo, so it's centered.
