@@ -36,7 +36,7 @@ Rectangle {
     QGCToolBarButton {
         id: qgcButton
         height: parent.height
-        icon.source: "/res/QGCLogoFull.svg"
+        icon.source: "/res/RIIS_Black.svg"
         logo: true
         onClicked: mainWindow.showToolSelectDialog()
     }

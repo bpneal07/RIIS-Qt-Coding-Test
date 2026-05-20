@@ -77,7 +77,7 @@ Item {
                         QGCToolBarButton {
                             id:                 qgcButton
                             Layout.fillHeight:  true
-                            icon.source:        "/res/QGCLogoFull.svg"
+                            icon.source:        "/res/RIIS_Black.svg"
                             logo:               true
                             onClicked:          mainWindow.showToolSelectDialog()
                         }
