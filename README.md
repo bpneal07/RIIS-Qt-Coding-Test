@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dronecode/UX-Design/35d8148a8a0559cd4bcf50bfa2c94614983cce91/QGC/Branding/Deliverables/QGC_RGB_Logo_Horizontal_Positive_PREFERRED/QGC_RGB_Logo_Horizontal_Positive_PREFERRED.svg" alt="QGroundControl Logo" width="500">
@@ -59,3 +60,7 @@ With QGroundControl, you're in full command of your UAV, ready to take your miss
 ### Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/mavlink/qgroundcontrol.svg?variant=adaptive)](https://starchart.cc/mavlink/qgroundcontrol)
+=======
+# RIIS-Qt-Coding-Test
+I was given RIIS Qt coding test to replace logo in upper left hand corner.
+>>>>>>> e754c7f5a5b09e5cb294c1571980e05475271d85
