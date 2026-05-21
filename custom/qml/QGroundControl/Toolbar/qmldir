@@ -1,0 +1,33 @@
+module QGroundControl.Toolbar
+typeinfo ToolbarModule.qmltypes
+prefer :/qml/QGroundControl/Toolbar/
+ArmedIndicator 1.0 ArmedIndicator.qml
+BatteryIndicator 1.0 BatteryIndicator.qml
+EscIndicator 1.0 EscIndicator.qml
+EscIndicatorPage 1.0 EscIndicatorPage.qml
+FlightModeIndicator 1.0 FlightModeIndicator.qml
+FlightModeMenuIndicator 1.0 FlightModeMenuIndicator.qml
+FlyViewToolBar 1.0 FlyViewToolBar.qml
+FlyViewToolBarIndicators 1.0 FlyViewToolBarIndicators.qml
+GCSControlIndicator 1.0 GCSControlIndicator.qml
+GimbalIndicator 1.0 GimbalIndicator.qml
+GPSIndicator 1.0 GPSIndicator.qml
+GPSIndicatorPage 1.0 GPSIndicatorPage.qml
+GPSResilienceIndicator 1.0 GPSResilienceIndicator.qml
+JoystickIndicator 1.0 JoystickIndicator.qml
+MainStatusIndicator 1.0 MainStatusIndicator.qml
+MainStatusIndicatorOfflinePage 1.0 MainStatusIndicatorOfflinePage.qml
+ModeIndicator 1.0 ModeIndicator.qml
+MultiVehicleSelector 1.0 MultiVehicleSelector.qml
+ParameterDownloadProgress 1.0 ParameterDownloadProgress.qml
+PlanViewToolBar 1.0 PlanViewToolBar.qml
+RCRSSIIndicator 1.0 RCRSSIIndicator.qml
+RemoteIDIndicator 1.0 RemoteIDIndicator.qml
+RemoteIDIndicatorPage 1.0 RemoteIDIndicatorPage.qml
+RTKGPSIndicator 1.0 RTKGPSIndicator.qml
+SelectViewDropdown 1.0 SelectViewDropdown.qml
+SignalStrength 1.0 SignalStrength.qml
+TelemetryRSSIIndicator 1.0 TelemetryRSSIIndicator.qml
+VehicleGPSIndicator 1.0 VehicleGPSIndicator.qml
+VehicleMessageList 1.0 VehicleMessageList.qml
+

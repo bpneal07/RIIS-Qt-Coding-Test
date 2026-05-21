@@ -1,0 +1,7 @@
+module QGroundControl.Logging
+linktarget QGCLoggingplugin
+optional plugin QGCLoggingplugin
+classname QGroundControl_LoggingPlugin
+typeinfo QGCLogging.qmltypes
+prefer :/qml/QGroundControl/Logging/
+

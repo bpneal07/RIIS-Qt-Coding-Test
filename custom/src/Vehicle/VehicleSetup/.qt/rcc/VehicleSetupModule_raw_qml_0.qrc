@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/VehicleSetup/">
+    <file alias="FirmwareUpgrade.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/FirmwareUpgrade.qml</file>
+    <file alias="JoystickComponent.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponent.qml</file>
+    <file alias="JoystickComponentButtons.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponentButtons.qml</file>
+    <file alias="JoystickComponentButtonMonitor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponentButtonMonitor.qml</file>
+    <file alias="JoystickComponentSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickComponentSettings.qml</file>
+    <file alias="OpticalFlowSensor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/OpticalFlowSensor.qml</file>
+    <file alias="RemoteControlCalibration.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/RemoteControlCalibration.qml</file>
+    <file alias="RemoteControlChannelMonitor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/RemoteControlChannelMonitor.qml</file>
+    <file alias="RemoteControlChannelValueDisplay.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/RemoteControlChannelValueDisplay.qml</file>
+    <file alias="SetupParameterEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/SetupParameterEditor.qml</file>
+    <file alias="VehicleConfigView.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/VehicleConfigView.qml</file>
+    <file alias="VehicleSummary.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/VehicleSummary.qml</file>
+  </qresource>
+</RCC>
+

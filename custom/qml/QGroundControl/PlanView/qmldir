@@ -1,0 +1,47 @@
+module QGroundControl.PlanView
+typeinfo PlanViewModule.qmltypes
+prefer :/qml/QGroundControl/PlanView/
+CameraCalcCamera 1.0 CameraCalcCamera.qml
+CameraCalcGrid 1.0 CameraCalcGrid.qml
+CameraSection 1.0 CameraSection.qml
+CorridorScanEditor 1.0 CorridorScanEditor.qml
+CorridorScanMapVisual 1.0 CorridorScanMapVisual.qml
+FWLandingPatternEditor 1.0 FWLandingPatternEditor.qml
+FWLandingPatternMapVisual 1.0 FWLandingPatternMapVisual.qml
+GeoFenceEditor 1.0 GeoFenceEditor.qml
+GeoFenceMapVisuals 1.0 GeoFenceMapVisuals.qml
+MissionDefaultsEditor 1.0 MissionDefaultsEditor.qml
+MissionItemEditor 1.0 MissionItemEditor.qml
+MissionItemIndexLabel 1.0 MissionItemIndexLabel.qml
+MissionItemMapVisual 1.0 MissionItemMapVisual.qml
+MissionItemMapVisualBase 1.0 MissionItemMapVisualBase.qml
+HomePositionMapVisual 1.0 HomePositionMapVisual.qml
+MissionItemStatus 1.0 MissionItemStatus.qml
+MissionSettingsEditor 1.0 MissionSettingsEditor.qml
+MissionStats 1.0 MissionStats.qml
+PlanEditToolbar 1.0 PlanEditToolbar.qml
+PlanInfoEditor 1.0 PlanInfoEditor.qml
+PlanToolBarIndicators 1.0 PlanToolBarIndicators.qml
+PlanTreeView 1.0 PlanTreeView.qml
+PlanView 1.0 PlanView.qml
+PlanViewRightPanel 1.0 PlanViewRightPanel.qml
+RallyPointEditorHeader 1.0 RallyPointEditorHeader.qml
+RallyPointItemEditor 1.0 RallyPointItemEditor.qml
+RallyPointMapVisuals 1.0 RallyPointMapVisuals.qml
+SimpleItemEditor 1.0 SimpleItemEditor.qml
+SimpleItemMapVisual 1.0 SimpleItemMapVisual.qml
+StructureScanEditor 1.0 StructureScanEditor.qml
+StructureScanMapVisual 1.0 StructureScanMapVisual.qml
+SurveyItemEditor 1.0 SurveyItemEditor.qml
+SurveyMapVisual 1.0 SurveyMapVisual.qml
+TakeoffItemMapVisual 1.0 TakeoffItemMapVisual.qml
+TerrainStatus 1.0 TerrainStatus.qml
+TransectStyleComplexItemEditor 1.0 TransectStyleComplexItemEditor.qml
+TransectStyleComplexItemStats 1.0 TransectStyleComplexItemStats.qml
+TransectStyleComplexItemTabBar 1.0 TransectStyleComplexItemTabBar.qml
+TransectStyleComplexItemTerrainFollow 1.0 TransectStyleComplexItemTerrainFollow.qml
+TransectStyleMapVisuals 1.0 TransectStyleMapVisuals.qml
+TransformEditor 1.0 TransformEditor.qml
+VTOLLandingPatternEditor 1.0 VTOLLandingPatternEditor.qml
+VTOLLandingPatternMapVisual 1.0 VTOLLandingPatternMapVisual.qml
+

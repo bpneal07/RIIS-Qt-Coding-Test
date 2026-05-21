@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/res">
+    <file alias="gear-black.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/gear-black.svg</file>
+  </qresource>
+</RCC>
+

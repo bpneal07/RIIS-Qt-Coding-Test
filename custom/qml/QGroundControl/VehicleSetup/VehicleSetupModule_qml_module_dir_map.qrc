@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/VehicleSetup">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/VehicleSetup</file>
+
+  </qresource>
+</RCC>

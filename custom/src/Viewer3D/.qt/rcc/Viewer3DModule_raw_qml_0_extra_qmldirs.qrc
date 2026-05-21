@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/Viewer3D/">
+    <file alias="Viewer3DQml/Models3D/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/Viewer3D/Viewer3DQml/Models3D/qmldir</file>
+    <file alias="Models3D/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/Viewer3D/Models3D/qmldir</file>
+    <file alias="Viewer3DQml/Drones/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/Viewer3D/Viewer3DQml/Drones/qmldir</file>
+    <file alias="Viewer3DQml/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/Viewer3D/Viewer3DQml/qmldir</file>
+  </qresource>
+</RCC>
+

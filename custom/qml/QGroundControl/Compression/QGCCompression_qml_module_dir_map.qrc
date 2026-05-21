@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/Compression">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/Compression</file>
+
+  </qresource>
+</RCC>

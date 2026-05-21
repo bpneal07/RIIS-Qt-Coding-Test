@@ -1,0 +1,48 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/PlanView/">
+    <file alias="CameraCalcCamera.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/CameraCalcCamera.qml</file>
+    <file alias="CameraCalcGrid.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/CameraCalcGrid.qml</file>
+    <file alias="CameraSection.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/CameraSection.qml</file>
+    <file alias="CorridorScanEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/CorridorScanEditor.qml</file>
+    <file alias="CorridorScanMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/CorridorScanMapVisual.qml</file>
+    <file alias="FWLandingPatternEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/FWLandingPatternEditor.qml</file>
+    <file alias="FWLandingPatternMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/FWLandingPatternMapVisual.qml</file>
+    <file alias="GeoFenceEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/GeoFenceEditor.qml</file>
+    <file alias="GeoFenceMapVisuals.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/GeoFenceMapVisuals.qml</file>
+    <file alias="MissionDefaultsEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/MissionDefaultsEditor.qml</file>
+    <file alias="MissionItemEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/MissionItemEditor.qml</file>
+    <file alias="MissionItemIndexLabel.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/MissionItemIndexLabel.qml</file>
+    <file alias="MissionItemMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/MissionItemMapVisual.qml</file>
+    <file alias="MissionItemMapVisualBase.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/MissionItemMapVisualBase.qml</file>
+    <file alias="HomePositionMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/HomePositionMapVisual.qml</file>
+    <file alias="MissionItemStatus.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/MissionItemStatus.qml</file>
+    <file alias="MissionSettingsEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/MissionSettingsEditor.qml</file>
+    <file alias="MissionStats.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/MissionStats.qml</file>
+    <file alias="PlanEditToolbar.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/PlanEditToolbar.qml</file>
+    <file alias="PlanInfoEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/PlanInfoEditor.qml</file>
+    <file alias="PlanToolBarIndicators.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/PlanToolBarIndicators.qml</file>
+    <file alias="PlanTreeView.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/PlanTreeView.qml</file>
+    <file alias="PlanView.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/PlanView.qml</file>
+    <file alias="PlanViewRightPanel.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/PlanViewRightPanel.qml</file>
+    <file alias="RallyPointEditorHeader.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/RallyPointEditorHeader.qml</file>
+    <file alias="RallyPointItemEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/RallyPointItemEditor.qml</file>
+    <file alias="RallyPointMapVisuals.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/RallyPointMapVisuals.qml</file>
+    <file alias="SimpleItemEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/SimpleItemEditor.qml</file>
+    <file alias="SimpleItemMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/SimpleItemMapVisual.qml</file>
+    <file alias="StructureScanEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/StructureScanEditor.qml</file>
+    <file alias="StructureScanMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/StructureScanMapVisual.qml</file>
+    <file alias="SurveyItemEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/SurveyItemEditor.qml</file>
+    <file alias="SurveyMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/SurveyMapVisual.qml</file>
+    <file alias="TakeoffItemMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/TakeoffItemMapVisual.qml</file>
+    <file alias="TerrainStatus.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/TerrainStatus.qml</file>
+    <file alias="TransectStyleComplexItemEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/TransectStyleComplexItemEditor.qml</file>
+    <file alias="TransectStyleComplexItemStats.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/TransectStyleComplexItemStats.qml</file>
+    <file alias="TransectStyleComplexItemTabBar.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/TransectStyleComplexItemTabBar.qml</file>
+    <file alias="TransectStyleComplexItemTerrainFollow.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/TransectStyleComplexItemTerrainFollow.qml</file>
+    <file alias="TransectStyleMapVisuals.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/TransectStyleMapVisuals.qml</file>
+    <file alias="TransformEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/TransformEditor.qml</file>
+    <file alias="VTOLLandingPatternEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/VTOLLandingPatternEditor.qml</file>
+    <file alias="VTOLLandingPatternMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/PlanView/VTOLLandingPatternMapVisual.qml</file>
+  </qresource>
+</RCC>
+

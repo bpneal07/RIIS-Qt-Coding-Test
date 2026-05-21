@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/Custom/Widgets">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/Custom/Widgets</file>
+
+  </qresource>
+</RCC>

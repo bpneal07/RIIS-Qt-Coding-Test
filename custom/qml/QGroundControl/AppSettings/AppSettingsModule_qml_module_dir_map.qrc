@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/AppSettings">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/AppSettings</file>
+
+  </qresource>
+</RCC>

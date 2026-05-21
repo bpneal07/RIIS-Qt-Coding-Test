@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/FirstRunPromptDialogs">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/FirstRunPromptDialogs</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+module QGroundControl.Geo
+linktarget QGCGeoFormatsplugin
+optional plugin QGCGeoFormatsplugin
+classname QGroundControl_GeoPlugin
+typeinfo QGCGeoFormats.qmltypes
+prefer :/qml/QGroundControl/Geo/
+

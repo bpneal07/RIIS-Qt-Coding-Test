@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/Toolbar">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/Toolbar</file>
+
+  </qresource>
+</RCC>

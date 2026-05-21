@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/json">
+    <file alias="USBBoardInfo.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Comms/USBBoardInfo.json</file>
+  </qresource>
+</RCC>
+

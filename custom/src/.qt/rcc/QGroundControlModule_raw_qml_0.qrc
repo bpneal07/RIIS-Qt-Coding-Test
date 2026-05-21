@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/">
+    <file alias="MainWindow.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/MainWindow/MainWindow.qml</file>
+    <file alias="MainWindow/MainWindowSavedState.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/MainWindow/MainWindowSavedState.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,43 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.0.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.0/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.1.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.1/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.2.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.2/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.3.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.3/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.4.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.4/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.5.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.5/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.6.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.6/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.7.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.7/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Copter.4.8.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Copter-4.8/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.0.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.0/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.1.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.1/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.2.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.2/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.3.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.3/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.4.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.4/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.5.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.5/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.6.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.6/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.7.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.7/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Plane.4.8.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Plane-4.8/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Rover.4.0.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Rover-4.0/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Rover.4.1.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Rover-4.1/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Rover.4.2.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Rover-4.2/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Rover.4.4.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Rover-4.4/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Rover.4.5.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Rover-4.5/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Rover.4.6.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Rover-4.6/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Rover.4.7.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Rover-4.7/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Rover.4.8.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Rover-4.8/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Sub.3.4.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Sub-3.4/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Sub.3.5.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Sub-3.5/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Sub.3.6.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Sub-3.6/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Sub.4.0.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Sub-4.0/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Sub.4.1.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Sub-4.1/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Sub.4.5.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Sub-4.5/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Sub.4.7.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Sub-4.7/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Sub.4.8.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Sub-4.8/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Tracker.4.5.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Tracker-4.5/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Tracker.4.6.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Tracker-4.6/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Tracker.4.7.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Tracker-4.7/apm.pdef.json</file>
+    <file alias="FirmwarePlugin/APM/APMParameterFactMetaData.Tracker.4.8.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/.cache/CPM/ardupilotparams/f29f/Tracker-4.8/apm.pdef.json</file>
+  </qresource>
+</RCC>
+

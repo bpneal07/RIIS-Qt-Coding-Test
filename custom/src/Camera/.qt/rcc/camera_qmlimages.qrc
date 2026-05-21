@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="camera_photo.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Camera/images/camera_photo.svg</file>
+    <file alias="camera_video.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Camera/images/camera_video.svg</file>
+  </qresource>
+</RCC>
+

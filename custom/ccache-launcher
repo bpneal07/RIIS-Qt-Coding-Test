@@ -1,0 +1,5 @@
+#!/bin/sh
+export CCACHE_CONFIGPATH="${CCACHE_CONFIGPATH:-/home/nealb/Documents/RIIS_Test/qgroundcontrol/tools/configs/ccache.conf}"
+export CCACHE_DIR="${CCACHE_DIR:-/home/nealb/Documents/RIIS_Test/qgroundcontrol/.ccache}"
+export CCACHE_BASEDIR="${CCACHE_BASEDIR:-/home/nealb/Documents/RIIS_Test/qgroundcontrol}"
+exec "/usr/bin/ccache" "$@"

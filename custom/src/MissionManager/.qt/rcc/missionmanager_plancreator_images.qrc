@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qmlimages/PlanCreator">
+    <file alias="BlankPlanCreator.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/MissionManager/BlankPlanCreator.png</file>
+    <file alias="CorridorScanPlanCreator.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/MissionManager/CorridorScanPlanCreator.png</file>
+    <file alias="StructureScanPlanCreator.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/MissionManager/StructureScanPlanCreator.png</file>
+    <file alias="SurveyPlanCreator.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/MissionManager/SurveyPlanCreator.png</file>
+  </qresource>
+</RCC>
+

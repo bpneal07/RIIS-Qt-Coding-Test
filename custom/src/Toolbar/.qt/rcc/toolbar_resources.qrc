@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/res">
+    <file alias="FlyingPaperPlane.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/FlyingPaperPlane.svg</file>
+    <file alias="GearWithPaperPlane.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/GearWithPaperPlane.svg</file>
+    <file alias="OpenDoor.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/OpenDoor.svg</file>
+    <file alias="VehicleMessages.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/VehicleMessages.png</file>
+  </qresource>
+</RCC>
+

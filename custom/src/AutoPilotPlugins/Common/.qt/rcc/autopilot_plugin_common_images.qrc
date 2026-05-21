@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/res">
+    <file alias="Download.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/Download.svg</file>
+    <file alias="Upload.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/Upload.svg</file>
+  </qresource>
+</RCC>
+

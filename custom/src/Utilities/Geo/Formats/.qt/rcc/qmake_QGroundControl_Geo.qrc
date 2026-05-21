@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/Geo">
+    <file alias="qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/Geo/qmldir</file>
+  </qresource>
+</RCC>
+

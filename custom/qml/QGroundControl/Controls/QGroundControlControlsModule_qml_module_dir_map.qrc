@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/Controls">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/Controls</file>
+
+  </qresource>
+</RCC>

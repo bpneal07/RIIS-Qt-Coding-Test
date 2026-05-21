@@ -1,0 +1,48 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/AppSettings/">
+    <file alias="ADSBServerSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/ADSBServerSettings.qml</file>
+    <file alias="CommLinksSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/CommLinksSettings.qml</file>
+    <file alias="FlyViewSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/FlyViewSettings.qml</file>
+    <file alias="GeneralSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/GeneralSettings.qml</file>
+    <file alias="LoggingSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/LoggingSettings.qml</file>
+    <file alias="MapsSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/MapsSettings.qml</file>
+    <file alias="NTRIPSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/NTRIPSettings.qml</file>
+    <file alias="PlanViewSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/PlanViewSettings.qml</file>
+    <file alias="PX4LogTransferSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/PX4LogTransferSettings.qml</file>
+    <file alias="RemoteIDSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/RemoteIDSettings.qml</file>
+    <file alias="SettingsPagesModel.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/SettingsPagesModel.qml</file>
+    <file alias="TelemetrySettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/TelemetrySettings.qml</file>
+    <file alias="VideoSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/VideoSettings.qml</file>
+    <file alias="Viewer3DSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/AppSettings/generated/Viewer3DSettings.qml</file>
+    <file alias="AppLogging.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/AppLogging.qml</file>
+    <file alias="BluetoothSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/BluetoothSettings.qml</file>
+    <file alias="DebugWindow.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/DebugWindow.qml</file>
+    <file alias="GcsPositionStatus.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/GcsPositionStatus.qml</file>
+    <file alias="HelpSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/HelpSettings.qml</file>
+    <file alias="LinkConfigurationManager.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/LinkConfigurationManager.qml</file>
+    <file alias="LogReplaySettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/LogReplaySettings.qml</file>
+    <file alias="MapProviderSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/MapProviderSettings.qml</file>
+    <file alias="MavlinkActionSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/MavlinkActionSettings.qml</file>
+    <file alias="MavlinkLinkStatus.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/MavlinkLinkStatus.qml</file>
+    <file alias="SigningKeyManager.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/SigningKeyManager.qml</file>
+    <file alias="MockLink.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/MockLink.qml</file>
+    <file alias="MockLinkSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/MockLinkSettings.qml</file>
+    <file alias="NmeaGpsSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/NmeaGpsSettings.qml</file>
+    <file alias="NtripConnectionStatus.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/NtripConnectionStatus.qml</file>
+    <file alias="NtripMountpointBrowser.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/NtripMountpointBrowser.qml</file>
+    <file alias="NtripServerSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/NtripServerSettings.qml</file>
+    <file alias="OfflineMapEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/OfflineMapEditor.qml</file>
+    <file alias="OfflineMapInfo.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/OfflineMapInfo.qml</file>
+    <file alias="OfflineMapSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/OfflineMapSettings.qml</file>
+    <file alias="PX4LogControl.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/PX4LogControl.qml</file>
+    <file alias="PX4LogFileManager.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/PX4LogFileManager.qml</file>
+    <file alias="PX4LogUploadSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/PX4LogUploadSettings.qml</file>
+    <file alias="QmlTest.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/QmlTest.qml</file>
+    <file alias="RemoteIDGpsLocation.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/RemoteIDGpsLocation.qml</file>
+    <file alias="SerialSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/SerialSettings.qml</file>
+    <file alias="SettingsPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/SettingsPage.qml</file>
+    <file alias="TcpSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/TcpSettings.qml</file>
+    <file alias="UdpSettings.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AppSettings/UdpSettings.qml</file>
+  </qresource>
+</RCC>
+

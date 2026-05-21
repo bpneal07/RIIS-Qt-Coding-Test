@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/LogViewer">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/LogViewer</file>
+
+  </qresource>
+</RCC>

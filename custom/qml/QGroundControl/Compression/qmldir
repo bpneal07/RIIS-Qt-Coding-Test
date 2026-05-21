@@ -1,0 +1,7 @@
+module QGroundControl.Compression
+linktarget QGCCompressionplugin
+optional plugin QGCCompressionplugin
+classname QGroundControl_CompressionPlugin
+typeinfo QGCCompression.qmltypes
+prefer :/qml/QGroundControl/Compression/
+

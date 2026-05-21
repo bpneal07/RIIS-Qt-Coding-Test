@@ -1,0 +1,45 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="adsbVehicle.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/adsbVehicle.svg</file>
+    <file alias="AlertAircraft.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/AlertAircraft.svg</file>
+    <file alias="attitudeDial.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/attitudeDial.svg</file>
+    <file alias="attitudeInstrument.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/attitudeInstrument.svg</file>
+    <file alias="attitudePointer.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/attitudePointer.svg</file>
+    <file alias="AwarenessAircraft.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/AwarenessAircraft.svg</file>
+    <file alias="cOGPointer.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/cOGPointer.svg</file>
+    <file alias="compassDottedLine.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/compassDottedLine.svg</file>
+    <file alias="compassInstrumentArrow.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/compassInstrumentArrow.svg</file>
+    <file alias="compassInstrumentDial.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/compassInstrumentDial.svg</file>
+    <file alias="crossHair.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/crossHair.svg</file>
+    <file alias="Help.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/Help.svg</file>
+    <file alias="HelpBlack.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/HelpBlack.svg</file>
+    <file alias="Home.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/Home.svg</file>
+    <file alias="MapAddMission.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapAddMission.svg</file>
+    <file alias="MapAddMissionBlack.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapAddMissionBlack.svg</file>
+    <file alias="MapCenter.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapCenter.svg</file>
+    <file alias="MapCenterBlack.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapCenterBlack.svg</file>
+    <file alias="MapDrawShape.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapDrawShape.svg</file>
+    <file alias="MapHome.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapHome.svg</file>
+    <file alias="MapHomeBlack.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapHomeBlack.svg</file>
+    <file alias="MapSync.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapSync.svg</file>
+    <file alias="MapSyncBlack.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapSyncBlack.svg</file>
+    <file alias="MapSyncChanged.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapSyncChanged.svg</file>
+    <file alias="MapType.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapType.svg</file>
+    <file alias="MapTypeBlack.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/MapTypeBlack.svg</file>
+    <file alias="PiP.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/PiP.svg</file>
+    <file alias="pipHide.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/pipHide.svg</file>
+    <file alias="pipResize.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/pipResize.svg</file>
+    <file alias="rollDialWhite.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/rollDialWhite.svg</file>
+    <file alias="rollPointerWhite.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/rollPointerWhite.svg</file>
+    <file alias="scale.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/scale.png</file>
+    <file alias="scale_end.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/scale_end.png</file>
+    <file alias="scale_endLight.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/scale_endLight.png</file>
+    <file alias="scaleLight.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/scaleLight.png</file>
+    <file alias="subVehicleArrowOpaque.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/sub.png</file>
+    <file alias="vehicleArrowOpaque.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/vehicleArrowOpaque.svg</file>
+    <file alias="vehicleArrowOutline.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/vehicleArrowOutline.svg</file>
+    <file alias="ZoomMinus.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/ZoomMinus.svg</file>
+    <file alias="ZoomPlus.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FlightMap/Images/ZoomPlus.svg</file>
+  </qresource>
+</RCC>
+
