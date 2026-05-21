@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="FloatingWindow.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/FloatingWindow.svg</file>
+    <file alias="GeoTagIcon.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/GeoTag/GeoTagIcon.svg</file>
+    <file alias="MAVLinkConsoleIcon.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/MAVLinkConsole/MAVLinkConsoleIcon.svg</file>
+    <file alias="MAVLinkInspector.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/MAVLinkInspector/MAVLinkInspector.svg</file>
+    <file alias="OnboardLogIcon.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/OnboardLogs/OnboardLogIcon.svg</file>
+    <file alias="VibrationPageIcon">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/Vibration/VibrationPageIcon.png</file>
+  </qresource>
+</RCC>
+

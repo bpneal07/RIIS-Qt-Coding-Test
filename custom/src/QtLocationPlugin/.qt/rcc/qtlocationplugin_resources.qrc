@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/res">
+    <file alias="notile.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/notile.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Custom-QGroundControl
+GenericName=Ground Control Station
+Comment=Open Source Ground Control App
+Icon=Custom-QGroundControl
+Exec=Custom-QGroundControl
+Terminal=false
+Categories=Qt;Utility;Maps

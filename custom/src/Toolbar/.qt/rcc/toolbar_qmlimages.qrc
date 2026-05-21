@@ -1,0 +1,49 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="Analyze.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Analyze.svg</file>
+    <file alias="Armed.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Armed.svg</file>
+    <file alias="Battery.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Battery.svg</file>
+    <file alias="BatteryGreen.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/BatteryGreen.svg</file>
+    <file alias="BatteryYellowGreen.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/BatteryYellowGreen.svg</file>
+    <file alias="BatteryYellow.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/BatteryYellow.svg</file>
+    <file alias="BatteryOrange.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/BatteryOrange.svg</file>
+    <file alias="BatteryCritical.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/BatteryCritical.svg</file>
+    <file alias="BatteryEMERGENCY.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/BatteryEMERGENCY.svg</file>
+    <file alias="CameraIcon.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/CameraIcon.svg</file>
+    <file alias="Connect.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Connect.svg</file>
+    <file alias="Disarmed.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Disarmed.svg</file>
+    <file alias="Disconnect.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Disconnect.svg</file>
+    <file alias="EscIndicator.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/EscIndicator.svg</file>
+    <file alias="Gears.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Gears.svg</file>
+    <file alias="Gps.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Gps.svg</file>
+    <file alias="GpsAuthentication.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/GpsAuthentication.svg</file>
+    <file alias="GpsInterference.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/GpsInterference.svg</file>
+    <file alias="Hamburger.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Hamburger.svg</file>
+    <file alias="HamburgerThin.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/HamburgerThin.svg</file>
+    <file alias="Joystick.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Joystick.png</file>
+    <file alias="Megaphone.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Megaphone.svg</file>
+    <file alias="PaperPlane.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/PaperPlane.svg</file>
+    <file alias="Plan.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Plan.svg</file>
+    <file alias="Quad.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Quad.svg</file>
+    <file alias="RC.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RC.svg</file>
+    <file alias="RidEmergencyBackgroundHighlight.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RidEmergencyBackgroundHighlight.svg</file>
+    <file alias="RidEmergencyBackground.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RidEmergencyBackground.svg</file>
+    <file alias="RidFlagBackgroundGreen.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RidFlagBackgroundGreen.svg</file>
+    <file alias="RidFlagBackgroundRed.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RidFlagBackgroundRed.svg</file>
+    <file alias="RidIconManNoID.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RidIconManNoID.svg</file>
+    <file alias="RidIconMan.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RidIconMan.svg</file>
+    <file alias="RidIconText.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RidIconText.svg</file>
+    <file alias="roi.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/roi.svg</file>
+    <file alias="RTK.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/RTK.svg</file>
+    <file alias="Signal0.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Signal0.svg</file>
+    <file alias="Signal100.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Signal100.svg</file>
+    <file alias="Signal20.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Signal20.svg</file>
+    <file alias="Signal40.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Signal40.svg</file>
+    <file alias="Signal60.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Signal60.svg</file>
+    <file alias="Signal80.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Signal80.svg</file>
+    <file alias="TelemRSSI.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/TelemRSSI.svg</file>
+    <file alias="TrackingIcon.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/TrackingIcon.svg</file>
+    <file alias="Yield.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/Images/Yield.svg</file>
+  </qresource>
+</RCC>
+

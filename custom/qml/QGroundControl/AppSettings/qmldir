@@ -1,0 +1,49 @@
+module QGroundControl.AppSettings
+typeinfo AppSettingsModule.qmltypes
+depends QGroundControl.Controls
+depends QGroundControl.LogManager
+prefer :/qml/QGroundControl/AppSettings/
+ADSBServerSettings 1.0 ADSBServerSettings.qml
+CommLinksSettings 1.0 CommLinksSettings.qml
+FlyViewSettings 1.0 FlyViewSettings.qml
+GeneralSettings 1.0 GeneralSettings.qml
+LoggingSettings 1.0 LoggingSettings.qml
+MapsSettings 1.0 MapsSettings.qml
+NTRIPSettings 1.0 NTRIPSettings.qml
+PlanViewSettings 1.0 PlanViewSettings.qml
+PX4LogTransferSettings 1.0 PX4LogTransferSettings.qml
+RemoteIDSettings 1.0 RemoteIDSettings.qml
+SettingsPagesModel 1.0 SettingsPagesModel.qml
+TelemetrySettings 1.0 TelemetrySettings.qml
+VideoSettings 1.0 VideoSettings.qml
+Viewer3DSettings 1.0 Viewer3DSettings.qml
+AppLogging 1.0 AppLogging.qml
+BluetoothSettings 1.0 BluetoothSettings.qml
+DebugWindow 1.0 DebugWindow.qml
+GcsPositionStatus 1.0 GcsPositionStatus.qml
+HelpSettings 1.0 HelpSettings.qml
+LinkConfigurationManager 1.0 LinkConfigurationManager.qml
+LogReplaySettings 1.0 LogReplaySettings.qml
+MapProviderSettings 1.0 MapProviderSettings.qml
+MavlinkActionSettings 1.0 MavlinkActionSettings.qml
+MavlinkLinkStatus 1.0 MavlinkLinkStatus.qml
+SigningKeyManager 1.0 SigningKeyManager.qml
+MockLink 1.0 MockLink.qml
+MockLinkSettings 1.0 MockLinkSettings.qml
+NmeaGpsSettings 1.0 NmeaGpsSettings.qml
+NtripConnectionStatus 1.0 NtripConnectionStatus.qml
+NtripMountpointBrowser 1.0 NtripMountpointBrowser.qml
+NtripServerSettings 1.0 NtripServerSettings.qml
+OfflineMapEditor 1.0 OfflineMapEditor.qml
+OfflineMapInfo 1.0 OfflineMapInfo.qml
+OfflineMapSettings 1.0 OfflineMapSettings.qml
+PX4LogControl 1.0 PX4LogControl.qml
+PX4LogFileManager 1.0 PX4LogFileManager.qml
+PX4LogUploadSettings 1.0 PX4LogUploadSettings.qml
+QmlTest 1.0 QmlTest.qml
+RemoteIDGpsLocation 1.0 RemoteIDGpsLocation.qml
+SerialSettings 1.0 SerialSettings.qml
+SettingsPage 1.0 SettingsPage.qml
+TcpSettings 1.0 TcpSettings.qml
+UdpSettings 1.0 UdpSettings.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/LogManager/">
+    <file alias="LoggingCategoriesDialog.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/LogManager/LoggingCategoriesDialog.qml</file>
+  </qresource>
+</RCC>
+

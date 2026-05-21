@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/Viewer3D/">
+    <file alias="Viewer3DQml/Models3D/CameraLightModel.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/CameraLightModel.qml</file>
+    <file alias="Models3D/Viewer3DModel.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DModel.qml</file>
+    <file alias="Viewer3DQml/Drones/DronePart.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/DronePart.qml</file>
+    <file alias="Viewer3DQml/Drones/AnimatedPropeller.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/AnimatedPropeller.qml</file>
+    <file alias="Viewer3DQml/Drones/DroneModelDjiF450.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Viewer3D/Viewer3DQml/Drones/DroneModelDjiF450.qml</file>
+    <file alias="Viewer3DQml/Models3D/Viewer3DVehicleItems.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Viewer3D/Viewer3DQml/Models3D/Viewer3DVehicleItems.qml</file>
+    <file alias="Viewer3DQml/Viewer3DProgressBar.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Viewer3D/Viewer3DQml/Viewer3DProgressBar.qml</file>
+    <file alias="Viewer3DQml/Viewer3DShowAction.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Viewer3D/Viewer3DQml/Viewer3DShowAction.qml</file>
+  </qresource>
+</RCC>
+

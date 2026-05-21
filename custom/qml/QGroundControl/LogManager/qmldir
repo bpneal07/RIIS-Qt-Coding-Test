@@ -1,0 +1,11 @@
+module QGroundControl.LogManager
+linktarget QGCLogManagerplugin
+optional plugin QGCLogManagerplugin
+classname QGroundControl_LogManagerPlugin
+typeinfo QGCLogManager.qmltypes
+depends QGroundControl.Controls
+depends QGroundControl.Logging
+prefer :/qml/QGroundControl/LogManager/
+LoggingCategoriesDialog 1.0 LoggingCategoriesDialog.qml
+depends QtQuick
+

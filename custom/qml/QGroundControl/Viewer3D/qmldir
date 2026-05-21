@@ -1,0 +1,19 @@
+module QGroundControl.Viewer3D
+linktarget Viewer3DModuleplugin
+optional plugin Viewer3DModuleplugin
+classname QGroundControl_Viewer3DPlugin
+typeinfo Viewer3DModule.qmltypes
+import QtPositioning
+import QtQuick
+import QtQuick3D
+import QtQuick3D.Helpers
+prefer :/qml/QGroundControl/Viewer3D/
+CameraLightModel 1.0 Viewer3DQml/Models3D/CameraLightModel.qml
+Viewer3DModel 1.0 Models3D/Viewer3DModel.qml
+DronePart 1.0 Viewer3DQml/Drones/DronePart.qml
+AnimatedPropeller 1.0 Viewer3DQml/Drones/AnimatedPropeller.qml
+DroneModelDjiF450 1.0 Viewer3DQml/Drones/DroneModelDjiF450.qml
+Viewer3DVehicleItems 1.0 Viewer3DQml/Models3D/Viewer3DVehicleItems.qml
+Viewer3DProgressBar 1.0 Viewer3DQml/Viewer3DProgressBar.qml
+Viewer3DShowAction 1.0 Viewer3DQml/Viewer3DShowAction.qml
+

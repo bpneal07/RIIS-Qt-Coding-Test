@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="CameraTrigger.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/CameraTrigger.svg</file>
+    <file alias="DatalinkLoss.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/DatalinkLoss.svg</file>
+    <file alias="DatalinkLossLight.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/DatalinkLossLight.svg</file>
+    <file alias="GeoFence.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/GeoFence.svg</file>
+    <file alias="GeoFenceLight.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/GeoFenceLight.svg</file>
+    <file alias="HITL.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/HITL.svg</file>
+    <file alias="LandMode.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/LandMode.svg</file>
+    <file alias="LandModeCopter.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/LandModeCopter.svg</file>
+    <file alias="LowBattery.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/LowBattery.svg</file>
+    <file alias="LowBatteryLight.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/LowBatteryLight.svg</file>
+    <file alias="no-logging.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/no-logging.svg</file>
+    <file alias="no-logging-light.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/no-logging-light.svg</file>
+    <file alias="ObjectAvoidance.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/ObjectAvoidance.svg</file>
+    <file alias="PowerComponentBattery_01cell.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/PowerComponentBattery_01cell.svg</file>
+    <file alias="PowerComponentBattery_02cell.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/PowerComponentBattery_02cell.svg</file>
+    <file alias="PowerComponentBattery_03cell.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/PowerComponentBattery_03cell.svg</file>
+    <file alias="PowerComponentBattery_04cell.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/PowerComponentBattery_04cell.svg</file>
+    <file alias="PowerComponentBattery_05cell.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/PowerComponentBattery_05cell.svg</file>
+    <file alias="PowerComponentBattery_06cell.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/PowerComponentBattery_06cell.svg</file>
+    <file alias="RCLoss.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/RCLoss.svg</file>
+    <file alias="RCLossLight.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/RCLossLight.svg</file>
+    <file alias="ReturnToHomeAltitude.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/ReturnToHomeAltitude.svg</file>
+    <file alias="ReturnToHomeAltitudeCopter.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/ReturnToHomeAltitudeCopter.svg</file>
+    <file alias="VehicleDown.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleDown.png</file>
+    <file alias="VehicleDownRotate.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleDownRotate.png</file>
+    <file alias="VehicleLeft.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleLeft.png</file>
+    <file alias="VehicleLeftRotate.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleLeftRotate.png</file>
+    <file alias="VehicleNoseDown.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleNoseDown.png</file>
+    <file alias="VehicleNoseDownRotate.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleNoseDownRotate.png</file>
+    <file alias="VehicleRight.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleRight.png</file>
+    <file alias="VehicleRightRotate.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleRightRotate.png</file>
+    <file alias="VehicleTailDown.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleTailDown.png</file>
+    <file alias="VehicleTailDownRotate.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleTailDownRotate.png</file>
+    <file alias="VehicleUpsideDown.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleUpsideDown.png</file>
+    <file alias="VehicleUpsideDownRotate.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/Images/VehicleUpsideDownRotate.png</file>
+  </qresource>
+</RCC>
+

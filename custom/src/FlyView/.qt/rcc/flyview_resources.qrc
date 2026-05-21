@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/res">
+    <file alias="Gripper.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/Gripper.svg</file>
+    <file alias="land.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/land.svg</file>
+    <file alias="NoVideoBackground.jpg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/NoVideoBackground.jpg</file>
+    <file alias="pause-mission.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/pause-mission.svg</file>
+  </qresource>
+</RCC>
+

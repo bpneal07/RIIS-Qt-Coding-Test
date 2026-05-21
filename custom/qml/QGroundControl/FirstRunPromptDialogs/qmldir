@@ -1,0 +1,6 @@
+module QGroundControl.FirstRunPromptDialogs
+typeinfo FirstRunPromptDialogsModule.qmltypes
+prefer :/qml/QGroundControl/FirstRunPromptDialogs/
+FirstRunPrompt 1.0 FirstRunPrompt.qml
+InitialSetupPrompt 1.0 InitialSetupPrompt.qml
+

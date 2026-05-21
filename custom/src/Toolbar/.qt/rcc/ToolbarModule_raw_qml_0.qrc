@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/Toolbar/">
+    <file alias="ArmedIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/ArmedIndicator.qml</file>
+    <file alias="BatteryIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/BatteryIndicator.qml</file>
+    <file alias="EscIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/EscIndicator.qml</file>
+    <file alias="EscIndicatorPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/EscIndicatorPage.qml</file>
+    <file alias="FlightModeIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/FlightModeIndicator.qml</file>
+    <file alias="FlightModeMenuIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/FlightModeMenuIndicator.qml</file>
+    <file alias="FlyViewToolBar.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/FlyViewToolBar.qml</file>
+    <file alias="FlyViewToolBarIndicators.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/FlyViewToolBarIndicators.qml</file>
+    <file alias="GCSControlIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/GCSControlIndicator.qml</file>
+    <file alias="GimbalIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/GimbalIndicator.qml</file>
+    <file alias="GPSIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/GPSIndicator.qml</file>
+    <file alias="GPSIndicatorPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/GPSIndicatorPage.qml</file>
+    <file alias="GPSResilienceIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/GPSResilienceIndicator.qml</file>
+    <file alias="JoystickIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/JoystickIndicator.qml</file>
+    <file alias="MainStatusIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/MainStatusIndicator.qml</file>
+    <file alias="MainStatusIndicatorOfflinePage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/MainStatusIndicatorOfflinePage.qml</file>
+    <file alias="ModeIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/ModeIndicator.qml</file>
+    <file alias="MultiVehicleSelector.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/MultiVehicleSelector.qml</file>
+    <file alias="ParameterDownloadProgress.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/ParameterDownloadProgress.qml</file>
+    <file alias="PlanViewToolBar.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/PlanViewToolBar.qml</file>
+    <file alias="RCRSSIIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/RCRSSIIndicator.qml</file>
+    <file alias="RemoteIDIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/RemoteIDIndicator.qml</file>
+    <file alias="RemoteIDIndicatorPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/RemoteIDIndicatorPage.qml</file>
+    <file alias="RTKGPSIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/RTKGPSIndicator.qml</file>
+    <file alias="SelectViewDropdown.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/SelectViewDropdown.qml</file>
+    <file alias="SignalStrength.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/SignalStrength.qml</file>
+    <file alias="TelemetryRSSIIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/TelemetryRSSIIndicator.qml</file>
+    <file alias="VehicleGPSIndicator.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/VehicleGPSIndicator.qml</file>
+    <file alias="VehicleMessageList.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Toolbar/VehicleMessageList.qml</file>
+  </qresource>
+</RCC>
+

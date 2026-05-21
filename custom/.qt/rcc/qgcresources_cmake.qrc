@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qtquickcontrols2.conf">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>
+

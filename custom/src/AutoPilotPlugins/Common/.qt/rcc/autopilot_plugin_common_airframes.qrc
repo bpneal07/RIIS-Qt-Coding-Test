@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="/qmlimages/Airframe">
+    <file alias="AirframeSimulation.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/AirframeSimulation.svg</file>
+    <file alias="AirframeUnknown.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/AirframeUnknown.svg</file>
+    <file alias="Airship.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Airship.svg</file>
+    <file alias="Autogyro.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Autogyro.svg</file>
+    <file alias="Boat.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Boat.svg</file>
+    <file alias="FlyingWing.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/FlyingWing.svg</file>
+    <file alias="FreeFlyer.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/FreeFlyer.svg</file>
+    <file alias="Helicopter.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Helicopter.svg</file>
+    <file alias="HelicopterCoaxial.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/HelicopterCoaxial.svg</file>
+    <file alias="HexaRotorPlus.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/HexaRotorPlus.svg</file>
+    <file alias="HexaRotorX.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/HexaRotorX.svg</file>
+    <file alias="OctoRotorPlus.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/OctoRotorPlus.svg</file>
+    <file alias="OctoRotorPlusCoaxial.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/OctoRotorPlusCoaxial.svg</file>
+    <file alias="OctoRotorX.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/OctoRotorX.svg</file>
+    <file alias="OctoRotorXCoaxial.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/OctoRotorXCoaxial.svg</file>
+    <file alias="Plane.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Plane.svg</file>
+    <file alias="PlaneATail.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/PlaneATail.svg</file>
+    <file alias="PlaneVTail.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/PlaneVTail.svg</file>
+    <file alias="QuadRotorATail.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/QuadRotorATail.svg</file>
+    <file alias="QuadRotorH.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/QuadRotorH.svg</file>
+    <file alias="QuadRotorPlus.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/QuadRotorPlus.svg</file>
+    <file alias="QuadRotorVTail.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/QuadRotorVTail.svg</file>
+    <file alias="QuadRotorWide.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/QuadRotorWide.svg</file>
+    <file alias="QuadRotorX.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/QuadRotorX.svg</file>
+    <file alias="Rover.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Rover.svg</file>
+    <file alias="Vectored6DofUUV.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Vectored6DofUUV.svg</file>
+    <file alias="VTOLDuoRotorTailSitter.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/VTOLDuoRotorTailSitter.svg</file>
+    <file alias="VTOLPlane.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/VTOLPlane.svg</file>
+    <file alias="VTOLPlaneOcto.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/VTOLPlaneOcto.svg</file>
+    <file alias="VTOLQuadRotorTailSitter.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/VTOLQuadRotorTailSitter.svg</file>
+    <file alias="VTOLTiltRotor.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/VTOLTiltRotor.svg</file>
+    <file alias="Y6A.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Y6A.svg</file>
+    <file alias="Y6B.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/Y6B.svg</file>
+    <file alias="YMinus.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/YMinus.svg</file>
+    <file alias="YPlus.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/YPlus.svg</file>
+  </qresource>
+</RCC>
+

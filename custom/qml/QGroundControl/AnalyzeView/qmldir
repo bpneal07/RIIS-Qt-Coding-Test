@@ -1,0 +1,14 @@
+module QGroundControl.AnalyzeView
+typeinfo AnalyzeViewModule.qmltypes
+prefer :/qml/QGroundControl/AnalyzeView/
+AnalyzePage 1.0 AnalyzePage.qml
+AnalyzeView 1.0 AnalyzeView.qml
+MAVLinkConsolePage 1.0 MAVLinkConsole/MAVLinkConsolePage.qml
+MAVLinkChart 1.0 MAVLinkInspector/MAVLinkChart.qml
+MAVLinkMessageButton 1.0 MAVLinkInspector/MAVLinkMessageButton.qml
+MAVLinkInspectorPage 1.0 MAVLinkInspector/MAVLinkInspectorPage.qml
+LogViewerPage 1.0 LogViewer/LogViewerPage.qml
+OnboardLogPage 1.0 OnboardLogs/OnboardLogPage.qml
+OnboardLogFtpPage 1.0 OnboardLogsFtp/OnboardLogFtpPage.qml
+VibrationPage 1.0 Vibration/VibrationPage.qml
+

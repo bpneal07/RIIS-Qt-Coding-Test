@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="PatternCamera.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/PatternCamera.png</file>
+    <file alias="PatternGrid.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/PatternGrid.png</file>
+    <file alias="PatternPresets.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/PatternPresets.png</file>
+    <file alias="PatternTerrain.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/PatternTerrain.png</file>
+  </qresource>
+</RCC>
+

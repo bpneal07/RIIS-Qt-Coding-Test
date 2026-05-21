@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/LogViewer/">
+    <file alias="LogViewerAltChart.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/LogViewer/LogViewerAltChart.qml</file>
+    <file alias="LogViewerChart.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/LogViewer/LogViewerChart.qml</file>
+  </qresource>
+</RCC>
+

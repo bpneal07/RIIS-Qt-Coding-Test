@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/FirstRunPromptDialogs/">
+    <file alias="FirstRunPrompt.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FirstRunPromptDialogs/FirstRunPrompt.qml</file>
+    <file alias="InitialSetupPrompt.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/FirstRunPromptDialogs/InitialSetupPrompt.qml</file>
+  </qresource>
+</RCC>
+

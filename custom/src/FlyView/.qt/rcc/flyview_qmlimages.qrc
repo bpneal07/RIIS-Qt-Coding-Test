@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="check.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/check.svg</file>
+  </qresource>
+</RCC>
+

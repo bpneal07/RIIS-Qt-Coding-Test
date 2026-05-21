@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="arrow-down.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/QmlControls/arrow-down.png</file>
+    <file alias="checkbox-check.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/QmlControls/checkbox-check.svg</file>
+    <file alias="subMenuButtonImage.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/CogWheels.png</file>
+  </qresource>
+</RCC>
+

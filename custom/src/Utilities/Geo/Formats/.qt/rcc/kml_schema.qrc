@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/kml">
+    <file alias="ogckml22.xsd">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Utilities/Geo/Formats/ogckml22.xsd</file>
+  </qresource>
+</RCC>
+

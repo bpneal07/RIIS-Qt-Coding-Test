@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="/json">
+    <file alias="ADSBVehicleManager.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/ADSBVehicleManager.SettingsGroup.json</file>
+    <file alias="APMMavlinkStreamRate.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/APMMavlinkStreamRate.SettingsGroup.json</file>
+    <file alias="App.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/App.SettingsGroup.json</file>
+    <file alias="AutoConnect.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/AutoConnect.SettingsGroup.json</file>
+    <file alias="BatteryIndicator.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/BatteryIndicator.SettingsGroup.json</file>
+    <file alias="FirmwareUpgrade.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/FirmwareUpgrade.SettingsGroup.json</file>
+    <file alias="FlightMap.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/FlightMap.SettingsGroup.json</file>
+    <file alias="FlightMode.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/FlightMode.SettingsGroup.json</file>
+    <file alias="FlyView.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/FlyView.SettingsGroup.json</file>
+    <file alias="GimbalController.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/GimbalController.SettingsGroup.json</file>
+    <file alias="Joystick.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/Joystick.SettingsGroup.json</file>
+    <file alias="JoystickManager.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/JoystickManager.SettingsGroup.json</file>
+    <file alias="LogManager.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/LogManager.SettingsGroup.json</file>
+    <file alias="Maps.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/Maps.SettingsGroup.json</file>
+    <file alias="Mavlink.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/Mavlink.SettingsGroup.json</file>
+    <file alias="MavlinkActions.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/MavlinkActions.SettingsGroup.json</file>
+    <file alias="NTRIP.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/NTRIP.SettingsGroup.json</file>
+    <file alias="OfflineMaps.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/OfflineMaps.SettingsGroup.json</file>
+    <file alias="PlanView.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/PlanView.SettingsGroup.json</file>
+    <file alias="RTK.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/RTK.SettingsGroup.json</file>
+    <file alias="RemoteID.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/RemoteID.SettingsGroup.json</file>
+    <file alias="Units.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/Units.SettingsGroup.json</file>
+    <file alias="Video.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/Video.SettingsGroup.json</file>
+    <file alias="Viewer3D.SettingsGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Settings/Viewer3D.SettingsGroup.json</file>
+  </qresource>
+</RCC>
+

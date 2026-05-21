@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/res">
+    <file alias="pencil.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/pencil.svg</file>
+  </qresource>
+</RCC>
+

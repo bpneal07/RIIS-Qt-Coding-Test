@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/res">
+    <file alias="ArrowRight.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/ArrowRight.svg</file>
+    <file alias="buttonRight.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/buttonRight.svg</file>
+    <file alias="chevron-down.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/chevron-down.svg</file>
+    <file alias="chevron-up.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/chevron-up.svg</file>
+    <file alias="clockwise-arrow.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/clockwise-arrow.svg</file>
+    <file alias="counter-clockwise-arrow.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/counter-clockwise-arrow.svg</file>
+    <file alias="JoystickBezelLight.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/JoystickBezelLight.png</file>
+  </qresource>
+</RCC>
+

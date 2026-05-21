@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qml/Custom/Plan/">
+    <file alias="PerimeterScanMapVisual.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/PlanView/PerimeterScanMapVisual.qml</file>
+    <file alias="PerimeterScanEditor.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/src/PlanView/PerimeterScanEditor.qml</file>
+  </qresource>
+</RCC>
+

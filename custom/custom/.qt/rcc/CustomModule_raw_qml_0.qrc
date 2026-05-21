@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qml/Custom/Widgets/">
+    <file alias="CustomArtificialHorizon.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/res/Custom/Widgets/CustomArtificialHorizon.qml</file>
+    <file alias="CustomAttitudeWidget.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/res/Custom/Widgets/CustomAttitudeWidget.qml</file>
+    <file alias="CustomIconButton.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/res/Custom/Widgets/CustomIconButton.qml</file>
+    <file alias="CustomOnOffSwitch.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/res/Custom/Widgets/CustomOnOffSwitch.qml</file>
+    <file alias="CustomQuickButton.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/res/Custom/Widgets/CustomQuickButton.qml</file>
+    <file alias="CustomSignalStrength.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/res/Custom/Widgets/CustomSignalStrength.qml</file>
+    <file alias="CustomToolBarButton.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/res/Custom/Widgets/CustomToolBarButton.qml</file>
+    <file alias="CustomVehicleButton.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/res/Custom/Widgets/CustomVehicleButton.qml</file>
+  </qresource>
+</RCC>
+

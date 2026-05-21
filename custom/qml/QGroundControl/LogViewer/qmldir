@@ -1,0 +1,6 @@
+module QGroundControl.LogViewer
+typeinfo LogViewerModule.qmltypes
+prefer :/qml/QGroundControl/LogViewer/
+LogViewerAltChart 1.0 LogViewerAltChart.qml
+LogViewerChart 1.0 LogViewerChart.qml
+

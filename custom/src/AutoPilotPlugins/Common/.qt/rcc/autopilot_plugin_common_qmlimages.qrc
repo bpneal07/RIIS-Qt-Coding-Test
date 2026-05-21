@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="AirframeComponentIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/AirframeComponentIcon.png</file>
+    <file alias="APMode.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/APMode.svg</file>
+    <file alias="ArrowCCW.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/ArrowCCW.svg</file>
+    <file alias="ArrowCW.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/ArrowCW.svg</file>
+    <file alias="ArrowDirection.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/ArrowDirection.svg</file>
+    <file alias="CameraComponentIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/CameraComponentIcon.png</file>
+    <file alias="FlightModesComponentIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/FlightModesComponentIcon.png</file>
+    <file alias="MotorComponentIcon.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/MotorComponentIcon.svg</file>
+    <file alias="PowerComponentIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/PowerComponentIcon.png</file>
+    <file alias="RadioComponentIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/RadioComponentIcon.png</file>
+    <file alias="SafetyComponentIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/SafetyComponentIcon.png</file>
+    <file alias="SensorsComponentIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/SensorsComponentIcon.png</file>
+    <file alias="StationMode.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/StationMode.svg</file>
+    <file alias="TuningComponentIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/TuningComponentIcon.png</file>
+    <file alias="wifi.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/Images/wifi.svg</file>
+  </qresource>
+</RCC>
+

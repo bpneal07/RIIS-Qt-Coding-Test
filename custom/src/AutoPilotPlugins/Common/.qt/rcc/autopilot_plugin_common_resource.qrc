@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/json">
+    <file alias="PowerModulePresets.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/Common/PowerModulePresets.json</file>
+  </qresource>
+</RCC>
+

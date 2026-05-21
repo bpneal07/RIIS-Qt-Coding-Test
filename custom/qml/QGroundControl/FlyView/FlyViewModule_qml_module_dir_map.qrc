@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/FlyView">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/FlyView</file>
+
+  </qresource>
+</RCC>

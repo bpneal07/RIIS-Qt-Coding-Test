@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/Custom/Plan">
+    <file alias="qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/Custom/Plan/qmldir</file>
+  </qresource>
+</RCC>
+

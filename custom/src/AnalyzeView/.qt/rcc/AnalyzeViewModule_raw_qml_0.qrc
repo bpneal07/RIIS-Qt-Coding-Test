@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/AnalyzeView/">
+    <file alias="AnalyzePage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/AnalyzePage.qml</file>
+    <file alias="AnalyzeView.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/AnalyzeView.qml</file>
+    <file alias="MAVLinkConsole/MAVLinkConsolePage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/MAVLinkConsole/MAVLinkConsolePage.qml</file>
+    <file alias="MAVLinkInspector/MAVLinkChart.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/MAVLinkInspector/MAVLinkChart.qml</file>
+    <file alias="MAVLinkInspector/MAVLinkMessageButton.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/MAVLinkInspector/MAVLinkMessageButton.qml</file>
+    <file alias="MAVLinkInspector/MAVLinkInspectorPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/MAVLinkInspector/MAVLinkInspectorPage.qml</file>
+    <file alias="LogViewer/LogViewerPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/LogViewer/LogViewerPage.qml</file>
+    <file alias="OnboardLogs/OnboardLogPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/OnboardLogs/OnboardLogPage.qml</file>
+    <file alias="OnboardLogsFtp/OnboardLogFtpPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/OnboardLogsFtp/OnboardLogFtpPage.qml</file>
+    <file alias="Vibration/VibrationPage.qml">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AnalyzeView/Vibration/VibrationPage.qml</file>
+  </qresource>
+</RCC>
+

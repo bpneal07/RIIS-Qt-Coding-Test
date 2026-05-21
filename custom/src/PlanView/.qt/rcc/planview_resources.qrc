@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/res">
+    <file alias="PlanSimpleItemAdvanced.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/AdvancedSliders.svg</file>
+    <file alias="PlanSimpleItemCamera.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/camera.svg</file>
+    <file alias="chevron-double-left.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/chevron-double-left.svg</file>
+    <file alias="DropArrow.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/DropArrow.svg</file>
+    <file alias="PlanSimpleItemBasic.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/gear-black.svg</file>
+    <file alias="RallyPoint.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/RallyPoint.svg</file>
+    <file alias="sliders.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/sliders.svg</file>
+    <file alias="SaveToDisk.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/SaveToDisk.svg</file>
+    <file alias="terrain.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/terrain.svg</file>
+    <file alias="UploadToVehicle.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/UploadToVehicle.svg</file>
+    <file alias="waypoint.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/resources/waypoint.svg</file>
+  </qresource>
+</RCC>
+

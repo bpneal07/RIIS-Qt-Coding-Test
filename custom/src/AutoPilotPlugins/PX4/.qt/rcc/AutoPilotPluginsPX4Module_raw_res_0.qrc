@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/AutoPilotPlugins/PX4/">
+    <file alias="VehicleConfig/Power.VehicleConfig.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/VehicleConfig/Power.VehicleConfig.json</file>
+    <file alias="VehicleConfig/Safety.VehicleConfig.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/AutoPilotPlugins/PX4/VehicleConfig/Safety.VehicleConfig.json</file>
+  </qresource>
+</RCC>
+

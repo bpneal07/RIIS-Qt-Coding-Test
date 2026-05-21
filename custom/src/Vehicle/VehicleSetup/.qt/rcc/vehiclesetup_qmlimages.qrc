@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="FirmwareUpgradeIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/FirmwareUpgradeIcon.png</file>
+    <file alias="VehicleSummaryIcon.png">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/VehicleSetup/VehicleSummaryIcon.png</file>
+  </qresource>
+</RCC>
+

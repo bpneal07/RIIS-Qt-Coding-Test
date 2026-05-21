@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/AnalyzeView/">
+    <file alias="MAVLinkConsole/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/AnalyzeView/MAVLinkConsole/qmldir</file>
+    <file alias="MAVLinkInspector/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/AnalyzeView/MAVLinkInspector/qmldir</file>
+    <file alias="LogViewer/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/AnalyzeView/LogViewer/qmldir</file>
+    <file alias="OnboardLogs/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/AnalyzeView/OnboardLogs/qmldir</file>
+    <file alias="OnboardLogsFtp/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/AnalyzeView/OnboardLogsFtp/qmldir</file>
+    <file alias="Vibration/qmldir">/home/nealb/Documents/RIIS_Test/qgroundcontrol/custom/qml/QGroundControl/AnalyzeView/Vibration/qmldir</file>
+  </qresource>
+</RCC>
+

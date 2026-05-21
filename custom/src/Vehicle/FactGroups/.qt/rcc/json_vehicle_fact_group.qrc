@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/json/Vehicle">
+    <file alias="RPMFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/RPMFact.json</file>
+    <file alias="TemperatureFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/TemperatureFact.json</file>
+    <file alias="GPSFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/GPSFact.json</file>
+    <file alias="EscStatusFactGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/EscStatusFactGroup.json</file>
+    <file alias="LocalPositionFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/LocalPositionFact.json</file>
+    <file alias="EstimatorStatusFactGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/EstimatorStatusFactGroup.json</file>
+    <file alias="EFIFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/EFIFact.json</file>
+    <file alias="BatteryFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/BatteryFact.json</file>
+    <file alias="ClockFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/ClockFact.json</file>
+    <file alias="SubmarineFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/SubmarineFact.json</file>
+    <file alias="SetpointFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/SetpointFact.json</file>
+    <file alias="DistanceSensorFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/DistanceSensorFact.json</file>
+    <file alias="GeneratorFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/GeneratorFact.json</file>
+    <file alias="HygrometerFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/HygrometerFact.json</file>
+    <file alias="RadioStatusFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/RadioStatusFact.json</file>
+    <file alias="TerrainFactGroup.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/TerrainFactGroup.json</file>
+    <file alias="VehicleFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/VehicleFact.json</file>
+    <file alias="VibrationFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/VibrationFact.json</file>
+    <file alias="WindFact.json">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/Vehicle/FactGroups/WindFact.json</file>
+  </qresource>
+</RCC>
+

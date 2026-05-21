@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qmlimages">
+    <file alias="CogWheel.svg">/home/nealb/Documents/RIIS_Test/qgroundcontrol/src/MissionManager/CogWheel.svg</file>
+  </qresource>
+</RCC>
+
